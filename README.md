@@ -1,4 +1,4 @@
-# Community Rentals — React + Express + MySQL
+# Community Rental Management System — React + Express + MySQL
 
 ## Project layout
 - `client/` — React + Vite frontend
